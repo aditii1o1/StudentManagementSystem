@@ -1,0 +1,9 @@
+#Java
+*.class
+*.jar
+
+#Intellij
+/.settings
+/bin
+.project
+.classpath
